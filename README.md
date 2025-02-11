@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JhonnyPG
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Java/Python/kotlin/C#
+- 🌱 I’m pretty good at Java/Python/kotlin/C#
 - 💞️ I’m looking to collaborate on Any good project
-- 📫 How to reach me jperea4@misena.edu.co
+- 📫 How to reach me jhonny.perea@outlook.com
 
 <!---
 JhonnyPG/JhonnyPG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
